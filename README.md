@@ -1,2 +1,2 @@
-# phonebook-app
-Phonebook demo app
+# Phonebook app
+This is a phonebook demo app
